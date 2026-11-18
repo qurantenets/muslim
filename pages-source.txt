@@ -1,1 +1,2 @@
 qurantenets/muslim gh-pages
+Published from quran-flow on every change; edits made here are overwritten.
